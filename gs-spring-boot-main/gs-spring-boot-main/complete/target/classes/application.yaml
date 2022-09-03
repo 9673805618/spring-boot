@@ -1,0 +1,6 @@
+server:
+ port: 8083
+ servlet:
+  ontext-path; /entity
+  
+  
